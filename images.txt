@@ -1,2 +1,3 @@
 nginx
 homeassistant
+wghaos/frp-client-51

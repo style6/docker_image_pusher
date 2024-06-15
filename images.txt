@@ -1,2 +1,3 @@
-
-homeassistant/amd64-addon-samba:latest 
+homeassistant/home-assistant:latest 
+homeassistant/amd64-addon-samba:latest
+nodered/node-red:latest 

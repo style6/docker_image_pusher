@@ -1,2 +1,2 @@
 
-nodered/node-red
+wghaos/frp-client-51:0.51.0

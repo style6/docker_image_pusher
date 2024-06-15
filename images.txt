@@ -1,3 +1,4 @@
 nginx
 homeassistant
 wghaos/frp-client-51:0.51.0
+homeassistant/amd64-addon-configurator

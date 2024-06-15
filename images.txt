@@ -1,4 +1,4 @@
 homeassistant/amd64-addon-configurator
 wghaos/frp-client-51:0.51.0
-ghcr.io/hassio-addons/node-red/amd64
+ghcr.io/hassio-addons/node-red/amd64:17.0.13
 homeassistant/amd64-addon-samba:

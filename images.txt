@@ -1,2 +1,2 @@
-
+homeassistant/amd64-addon-configurator
 wghaos/frp-client-51:0.51.0

@@ -1,3 +1,4 @@
 homeassistant/home-assistant:latest 
 homeassistant/amd64-addon-samba:latest
-nodered/node-red:latest 
+nodered/node-red:latest
+--platform=linux/arm64 homeassistant/home-assistant:latest

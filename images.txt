@@ -1,2 +1,2 @@
 
---platform= amd64 docker.fastgh.com/xyyyhtl/haos-turbo:2.2.5.1-2
+--platform=linux/amd64 docker.fastgh.com/xyyyhtl/haos-turbo:2.2.5.1-2

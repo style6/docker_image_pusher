@@ -1,2 +1,2 @@
-AdGuard Home
-haishanh/yacd
+adguard/adguardhome
+

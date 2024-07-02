@@ -1,3 +1,3 @@
 adguard/adguardhome
-homeassistant/arm64-addon-mosquitto
+homeassistant/arrch64-addon-mosquitto
 zigbee2mqtt/zigbee2mqtt-amd64

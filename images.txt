@@ -1,1 +1,1 @@
---platform=linux/arm64 nginx
+--platform=ghcr.fastgh.com/home-assistant/green-homeassistant:2024.7.2

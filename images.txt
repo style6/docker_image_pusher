@@ -1,2 +1,3 @@
 #--platform=linux/arm64 ghcr.fastgh.com/home-assistant/green-homeassistant:2024.7.2
-ghcr.io/hassio-addons/ssh/amd64:18.0.0
+
+--platform=linux/arm64 1activegeek/airconnect

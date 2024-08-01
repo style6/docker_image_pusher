@@ -1,2 +1,3 @@
 #--platform=linux/arm64 ghcr.fastgh.com/home-assistant/green-homeassistant:2024.7.2
---platform=linux/arm64 probezy/cpolar
+#--platform=linux/arm64 probezy/cpolar
+homeassistant/amd64-addon-mosquitto:6.4.1

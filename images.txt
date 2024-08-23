@@ -7,5 +7,5 @@
 #--platform=linux/amd64 alexxit/go2rtc
 #--platform=linux/arm64 probezy/cpolar
 #--platform=linux/arm64 homeassistant/aarch64-addon-configurator:5.8.0
---platform=linux/arm64 xyyyhtl/haos-turbo
+--platform=linux/arm64 xyyyhtl/haos-turbo:latest
 

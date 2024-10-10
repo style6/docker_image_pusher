@@ -4,8 +4,8 @@
 #--platform=linux/armv7 homeassistant/home-assistant
 #homeassistant/armv7-homeassistant
 #--platform=linux/amd64 ghcr.io/funkeyflo/ps5-mqtt/amd64
---platform=linux/arm64 alexxit/go2rtc:1.9.4
+#--platform=linux/arm64 alexxit/go2rtc:1.9.4
 #--platform=linux/arm64 probezy/cpolar
 #--platform=linux/arm64 homeassistant/aarch64-addon-configurator:5.8.0
 #--platform=linux/arm64 xyyyhtl/haos-turbo:2.2.5.1-2
-
+--platform=linux/arm64 wghaos/frp-client-51:0.59.0

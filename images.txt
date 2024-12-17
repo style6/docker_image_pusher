@@ -1,8 +1,8 @@
 #--platform=linux/arm64 ghcr.fastgh.com/home-assistant/green-homeassistant:2024.7.2
 #--platform=linux/arm64 probezy/cpolar
 #homeassistant/amd64-addon-mosquitto:6.4.1
-#--platform=linux/armv7 homeassistant/home-assistant
---platform=linux/amd64 dscao/sgcc_electricity
+--platform=linux/armv7 homeassistant/home-assistant
+#--platform=linux/amd64 dscao/sgcc_electricity
 #homeassistant/armv7-homeassistant
 #--platform=linux/amd64 ghcr.io/funkeyflo/ps5-mqtt/amd64
 #--platform=linux/arm64 alexxit/go2rtc:1.9.4

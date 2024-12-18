@@ -10,4 +10,4 @@
 #--platform=linux/arm64 homeassistant/aarch64-addon-configurator:5.8.0
 #--platform=linux/arm64 xyyyhtl/haos-turbo:2.2.5.1-2
 #--platform=linux/arm64 wghaos/frp-client-51:0.59.0
-homeasssitant/home-assistant
+homeassistant/home-assistant

@@ -4,7 +4,7 @@
 #--platform=linux/armv7 homeassistant/home-assistant
 #--platform=linux/arm64 homeassistant/home-assistant
 #--platform=linux/amd64 dscao/sgcc_electricity
---platform=linux/amd64 snowdreamtech/frpc
+--platform=linux/amd64 axboy/leanote
 #homeassistant/armv7-homeassistant
 #--platform=linux/amd64 ghcr.io/funkeyflo/ps5-mqtt/amd64
 #--platform=linux/arm64 alexxit/go2rtc:1.9.4
